@@ -31,9 +31,7 @@ print(a.items())
 print(a.get("id"))
 
 #mydict.update({newdict}) - can insert new items
-a.update({"name":"1aw"})
+a.update({"name":"1aw","name":"tp"})
 print(a)
 
 
-
-  
